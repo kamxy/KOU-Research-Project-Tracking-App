@@ -1,4 +1,4 @@
-# proje_takip_ap
+# KOU Reasearch Tracking App
 
 A new Flutter project.
 
